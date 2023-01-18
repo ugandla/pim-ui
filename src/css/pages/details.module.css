@@ -1,0 +1,55 @@
+.detailsContainer {
+  margin: 20px 0px;
+
+  padding: 30px;
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.detailsContainer span {
+  font-size: 16px;
+}
+.detailsContainer tbody {
+  font-size: 16px;
+}
+
+.originalText {
+  margin-top: 10px;
+  border: 1px solid green;
+  padding: 8px 15px;
+  border-radius: 6px;
+}
+
+.stepsContainer {
+  /* margin-top: 10px;
+  border: 1px solid lightgray;
+  padding: 8px 15px; */
+}
+.step {
+  font-size: 16px;
+}
+.breadcrumb {
+  height: 30px !important;
+  font-size: 20px;
+}
+.descTitle {
+  font-size: 20px;
+  margin-left: 5px;
+  line-height: 1;
+}
+.descDetail {
+  font-weight: 400;
+  color: #212121;
+  font-size: 16px;
+  line-height: 1.29;
+  font-family: system-ui;
+}
+
+.addInfo {
+  font-weight: 500;
+  color: #212121;
+  font-size: 16px;
+  line-height: 1.29;
+  font-family: system-ui;
+  margin-left: 10px;
+}

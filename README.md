@@ -1,1 +1,1 @@
-# pim-ui
+# pimui
